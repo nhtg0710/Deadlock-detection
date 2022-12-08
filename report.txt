@@ -1,0 +1,1 @@
+My approach is greedy: it makes the best possible choice at each stage. If there are more than 1 eligible process at 1 stage, it will include all of them, when the sequential approach allows only 1 process at a time, regardless of the current situation.
